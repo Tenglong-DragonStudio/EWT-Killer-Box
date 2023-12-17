@@ -1,0 +1,28 @@
+{
+  "name": "postcss-focus",
+  "version": "5.0.1",
+  "description": "PostCSS plugin to add :focus selector to every :hover for keyboard accessibility",
+  "keywords": [
+    "postcss",
+    "css",
+    "postcss-plugin",
+    "hover",
+    "focus",
+    "keyboard",
+    "accessibility",
+    "a11y"
+  ],
+  "author": "Andrey Sitnik <andrey@sitnik.ru>",
+  "license": "MIT",
+  "repository": "postcss/postcss-focus",
+  "engines": {
+    "node": ">=10.0"
+  },
+  "funding": {
+    "type": "opencollective",
+    "url": "https://opencollective.com/postcss/"
+  },
+  "peerDependencies": {
+    "postcss": "^8.1.0"
+  }
+}
