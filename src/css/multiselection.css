@@ -1,0 +1,39 @@
+
+.view-options {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+    padding: 4px 0;
+}
+
+.view-option,.view-option-clicked {
+    padding: 3px 17px;
+    list-style: none;
+    font-size: 12px;
+    border-radius: 5px;
+    box-shadow: 0 0 5px gray;
+    margin-right: 7px;
+}
+
+.multi-view {
+    border-radius: 5px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    padding: 5px;
+    box-sizing: border-box;
+    justify-content: center;
+    box-shadow: 0 0 3px gray;
+}
+
+.view-option-clicked {
+    background-color: gray;
+    color: white;
+}
+
+.view-option:hover {
+    background-color: #bababa;
+}
+.multi-view-box {
+
+}

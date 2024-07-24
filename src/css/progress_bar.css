@@ -1,0 +1,29 @@
+.progress-bar-in {
+    background-color: #00fff8;
+    border-radius: inherit;
+    height: 100%;
+    position: absolute;
+    left: 0;
+    top: 0;
+    z-idnex: 1;
+    width: 0%;
+}
+
+.progress-bar-out {
+    position: relative;
+    background-color: rgb(128,128,128,0.7);
+    border-radius: 5px;
+    height: 7px;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.progress-text {
+    color: black;
+    font-weight: bolder;
+    font-size: 12px;
+    z-index: 2;
+    position: relative;
+}

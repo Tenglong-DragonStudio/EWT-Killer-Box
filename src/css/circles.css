@@ -1,0 +1,69 @@
+.ques-number-circle {
+    height: 100%;
+    /* width: 14px; */
+    border-radius: 7px;
+    padding: 0 10px;
+    /* background-color: red; */
+    align-items: center;
+    display: flex;
+    justify-content: center;
+    box-shadow: 0 0 2px 1px gray;
+    font-weight: bolder;
+    font-size: 12px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
+
+.btn-red {
+    background-color: #ca0404;
+    color:white;
+}
+
+.btn-red>svg {
+    fill: white;
+}
+
+.btn-red:hover {
+    background-color: #a20101;
+    box-shadow: 0 0 3px gray;
+}
+
+.btn-green {
+    color: white;
+    background-color: #00d000;
+}
+
+.btn-blue {
+    color: white;
+    background-color: #41d0ff;
+}
+
+.btn-green:hover {
+    color: white;
+    background-color: #029502;
+}
+
+.btn-yellow {
+    background-color: #f8ac25;
+}
+
+.btn-yellow:hover {
+    background-color: #e19404;
+}
+
+.btn-blue:hover {
+    background-color: #00aee7;
+}
+
+.btn-unclick:hover {
+    background-color: gray;
+}
+
+.btn-purple {
+    background-color: #ff09ff;
+}
+
+.btn-purple:hover {
+    color: white;
+    background-color: #b404b4;
+}

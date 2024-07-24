@@ -1,0 +1,6 @@
+{
+  "@include": "https://*.ewt360.com/*",
+  "@run-at": "document-end",
+  "@require": "https://code.jquery.com/jquery-3.6.0.min.js",
+  "@author": "Sudo-su-Bash"
+}

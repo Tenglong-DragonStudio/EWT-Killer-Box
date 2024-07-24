@@ -1,0 +1,46 @@
+.loading-single-container {
+    height: inherit;
+    width: inherit;
+    position: absolute;
+}
+
+.loading-single {
+    height: 35%;
+    width: 100%;
+    background-color: #80808087;
+    border-radius: 6px;
+    box-shadow: 0 0 2px gray;
+}
+
+.loading-c {
+    position: relative;
+    height: 40px;
+    width: 5px;
+}
+
+.loading {
+    display: flex;
+    padding: 10px 10px;
+    box-shadow: 0 0 2px gray;
+    background-color: #ffffff99;
+    font-size: 20px;
+    font-weight: bolder;
+    border-radius: 5px;
+    opacity: 0;
+    marginBottom: 100px;
+    width: 150px;
+    flex-direction:column;
+    align-items: center;
+    box-sizing: border-box;
+}
+
+.loading-text {
+    text-align: center;
+    font-size: 14px;
+    margin-top: 5px;
+    font-weight: bolder;
+}
+
+.loading-single-l {
+    background-color: white;
+}
