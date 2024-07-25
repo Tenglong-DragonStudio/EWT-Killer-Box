@@ -62,7 +62,7 @@
 <span style="color: red">N</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;iPhone Firefox/Chrome<br>
 <span style="color: red">N</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Android Chrome(原生)<br>
 <span style="color: red">N</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Via<br>
-<span style="color: gray">N</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大多数手机自带浏览器<br>
+<span style="color: gray">N</span>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;大多数所谓"自带安装插件功能"的手机浏览器<br>
 
 # 使用方式
 
